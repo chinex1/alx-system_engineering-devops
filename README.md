@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .). Use the long format
+mkdir/tmp/my_first_directory: directory
